@@ -43,4 +43,4 @@ start USBDeview.exe /stext USBDeview.txt
 Por ultimo solo copia los archivos descagados y ocultalos en alguna usb, solo dejando el .Bat
 
 ## 📚 Nota Importante
-Algo a destacar es que todos los archivos deben estar en una misma carpeta, incluyendo el ".Bat" De lo contrario no funcionará
+Algo a destacar es que todos los archivos deben estar en una misma carpeta, incluyendo el ".Bat" De lo contrario no funcionará.
