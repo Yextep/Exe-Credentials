@@ -1,9 +1,9 @@
 
  # USB Para extraer contraseñas de un ordenador
  
-La tecnología ha avanzado tanto, que se ha desarrollado una forma de robar o registra información de una manera disimulada en cualquier ordenador. Este método es llamado keylogging, y puede ser beneficioso o malicioso según sea el uso que se le de, ya que si eres de los que descargan programas o introducen en el ordenador dispositivos USB constantemente puedes que seas víctima de esto.
+La tecnología ha avanzado tanto, que se ha desarrollado una forma de robar o registrar información de una manera disimulada en cualquier ordenador. Este método es llamado keylogging, y puede ser beneficioso o malicioso según sea el uso que se le de, ya que si eres de los que descargan programas o introducen en el ordenador dispositivos USB constantemente puedes que seas víctima de esto.
 
-Existen personas que usan este método de forma beneficiosa. Por ejemplo, las empresas usan los keylogger para registrar y ver el avance del trabajo de sus empleados, sin necesidad de estar constantemente pidiendo informes. Esta es una manera de organizarse y optimizar al máximo las labores de oficina. Sin embargo, es un tema tan delicado que solo puede hacerse con el consentimiento del empleado y con ciertas limitaciones para proteger información personal del mismo. [Leer Más](https://es.wikipedia.org/wiki/Archivo_batch) 
+Existen personas que usan este método de forma beneficiosa. Por ejemplo, las empresas usan los keylogger para registrar y ver el avance del trabajo de sus empleados, sin necesidad de estar constantemente pidiendo informes. Esta es una manera de organizarse y optimizar al máximo las labores de oficina. Sin embargo, es un tema tan delicado que solo puede hacerse con el consentimiento del empleado y con ciertas limitaciones para proteger información personal del mismo. 
 
 <img align="center" height="480" width="1000" alt="GIF" src="https://github.com/ArisGuimera/ArisGuimera/assets/114537444/6d78f6c0-fe7c-40e1-9b0f-dc90c309c956"/>
 
